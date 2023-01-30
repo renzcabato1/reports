@@ -5,7 +5,7 @@
 <div class="middle-box text-center loginscreen animated fadeInDown mt-5">
     <div>
         <div class="m-b-md mt-5">
-            <img alt="image"  src="{{asset('images/logo.avif')}}" style='width:135px;'>
+            <img alt="image"  src="{{asset('images/logo.png')}}" style='width:135px;'>
         </div>
         @if (session('status'))
             <div class="alert alert-success" role="alert">
